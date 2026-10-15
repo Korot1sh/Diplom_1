@@ -7,4 +7,3 @@ venv/
 .vscode/
 allure-results/
 allure-report/
-.coverage
